@@ -1,0 +1,24 @@
+# ----
+# Site
+
+title: CloudCannon
+description: CloudCannon has everything you need to build, host and update Jekyll websites.
+url: https://cloudcannon.com
+disqus_shortname: cloudcannon
+baseurl:
+
+active_sibling:
+main_url:
+google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
+permalink: pretty
+
+# ----------
+# SEO plugin
+
+lang: en_NZ
+logo: /siteicon.png
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
