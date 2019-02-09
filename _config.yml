@@ -3,9 +3,9 @@
 
 title: CloudCannon
 description: CloudCannon has everything you need to build, host and update Jekyll websites.
-url: https://cloudcannon.com
+url: https://wahidemalution.github.io/squadev
 disqus_shortname: cloudcannon
-baseurl:
+baseurl: /squadev
 
 active_sibling:
 main_url:
